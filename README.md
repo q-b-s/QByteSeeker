@@ -17,14 +17,14 @@ A passionate developer with a love for building impactful projects. I’m consta
 
 ## 📊 Github Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=whitecodename&count_private=true&show_icons=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=QByteSeeker&count_private=true&show_icons=true&hide=prs&theme=radical)
 
 ## 📈 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whitecodename&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QByteSeeker&theme=radical)
 
 ## Contributions
 
-[![whitecodename's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whitecodename&theme=react-dark)](https://github.com/whitecodename/github-readme-activity-graph)
+[![QByteSeeker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QByteSeeker&theme=react-dark)](https://github.com/QByteSeeker/github-readme-activity-graph)
 
 ## 🔗 Let's Connect
 
