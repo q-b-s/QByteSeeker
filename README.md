@@ -1,19 +1,9 @@
-<!-- 
-Version 5.0 - Bilingue (FR/EN)
-Ce README utilise des menus déroulants pour permettre aux visiteurs de choisir leur langue.
-Le français est ouvert par défaut.
--->
-
-<!-- 1. Bannière GIF (Commune aux deux langues) -->
+<!-- GIF Banner -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB3aXJjM2I0bWh6dnluOTk4aDB6a3h0ZXI0cDV5YWo3ZXJubXVwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Code GIF">
 </p>
 
-<!-- 
-======================================================================
-// VERSION FRANÇAISE (Ouverte par défaut) //
-======================================================================
--->
+<!-- FR Version -->
 <details open>
 <summary>🇫🇷 <strong>Voir la version en Français</strong></summary>
 <br>
@@ -43,7 +33,6 @@ Le français est ouvert par défaut.
 ### 📊 Mes Statistiques sur GitHub
 
 <p align="center">
-  <!-- Remplacez QByteSeeker par votre nom d'utilisateur -->
   <a href="https://github.com/QByteSeeker">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=QByteSeeker&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="Statistiques GitHub" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QByteSeeker&layout=compact&theme=dracula&hide_border=true" alt="Langages les plus utilisés" />
@@ -92,11 +81,7 @@ Le français est ouvert par défaut.
 
 </details>
 
-<!-- 
-======================================================================
-// ENGLISH VERSION //
-======================================================================
--->
+<!-- EN Version -->
 <details>
 <summary>🇬🇧 <strong>Switch to English version</strong></summary>
 <br>
@@ -126,7 +111,6 @@ Le français est ouvert par défaut.
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <!-- Replace QByteSeeker with your username -->
   <a href="https://github.com/QByteSeeker">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=QByteSeeker&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QByteSeeker&layout=compact&theme=dracula&hide_border=true" alt="Top Languages Used" />

@@ -1,5 +1,3 @@
-# GitHub Action pour générer le SVG du serpent animé
-
 name: Generate Snake Animation
 
 on:
@@ -12,11 +10,8 @@ on:
 
 jobs:
   build:
-    # ----------------------------------------------------------- #
-    # LA SOLUTION EST ICI : On donne la permission d'écrire le contenu.
     permissions:
       contents: write
-    # ----------------------------------------------------------- #
     runs-on: ubuntu-latest
 
     steps:
