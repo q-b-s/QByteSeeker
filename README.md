@@ -1,10 +1,5 @@
 <!-- 
-Bienvenue dans votre nouveau README, version 2.1 !
-Pour le personnaliser :
-1. Remplacez PARTOUT `QByteSeeker` par votre nom d'utilisateur GitHub. (Le workflow le fera automatiquement).
-2. Personnalisez le texte, les couleurs et les animations dans l'URL de la bannière.
-3. Adaptez la section "Mon Arsenal Technologique" à VOS compétences réelles.
-4. Mettez à jour les liens dans la section "Parlons-en !".
+Version 2.2 - Corrigée et prête à l'emploi !
 -->
 
 <!-- Bannière dynamique et personnalisable -->
