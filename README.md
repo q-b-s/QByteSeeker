@@ -1,101 +1,62 @@
 <!-- 
-Version 2.2 - Corrigée et prête à l'emploi !
+Version 4.0 : Le meilleur des deux mondes. Beauté visuelle et fiabilité technique.
+Lisez bien les instructions pour le "Snake" à la fin !
 -->
 
-<!-- Bannière dynamique et personnalisable -->
+<!-- 1. Bannière GIF - Fiable et Animée -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00BFFF&height=280§ion=header&text=Jordan%20VUIDE&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecte%20Logiciel%20%26%20Explorateur%20Technologique&descAlignY=51&descAlign=62" alt="Bannière dynamique">
+  <img src="https://media.giphy.com/media/du3J3BYNQxujzBYW9z/giphy.gif" width="600" alt="Code GIF">
 </p>
 
-<!-- Titre animé -->
+<!-- 2. Titre et Introduction -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00BFFF¢er=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Jordan+VUIDE;Développeur+Full-Stack;Créateur+d'expériences+numériques;Toujours+en+quête+de+défis" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Bonjour%2C+je+suis+Jordan+VUIDE;Développeur+Passionné;Architecte+de+Solutions+Logicielles;Explorateur+de+Technologies" alt="Typing SVG"></a>
+  <p>Je suis un développeur qui transforme des idées complexes en applications élégantes et fonctionnelles. Ce profil est une vitrine de mon parcours à travers le code et de ma quête constante d'apprentissage.</p>
 </div>
 
-<!-- Layout en 2 colonnes : Intro + Stats -->
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>👨‍💻 À Propos de Moi</h3>
-      <p>Je suis un développeur passionné qui transforme le café en code propre, robuste et performant. Mon terrain de jeu favori s'étend des algorithmes complexes en C++ à la création d'API RESTful modernes. Je crois fermement qu'une ligne de code bien pensée peut avoir un impact considérable.</p>
-      <ul>
-        <li>🔭 Je construis actuellement <strong>[Nom de votre projet actuel]</strong>.</li>
-        <li>🌱 Mon focus du moment est sur <strong>[Technologie que vous apprenez, ex: Rust, GraphQL]</strong>.</li>
-        <li>💬 Discutons de <strong>C++, Python, architecture logicielle</strong> ou de votre dernier défi technique !</li>
-      </ul>
-      <hr>
-      <h3>🏆 Trophées GitHub</h3>
-      <p align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=QByteSeeker&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophées GitHub de QByteSeeker"/>
-        </a>
-      </p>
-    </td>
-    <td width="35%" valign="top">
-      <h3 align="center">📊 Stats en un coup d'œil</h3>
-      <p align="center">
-        <a href="https://github.com/QByteSeeker">
-          <img src="https://github-readme-stats.vercel.app/api?username=QByteSeeker&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=prs" alt="Statistiques GitHub"/>
-        </a>
-        <br>
-        <a href="https://github.com/QByteSeeker">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QByteSeeker&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Langages les plus utilisés"/>
-        </a>
-        <br>
-        <a href="https://github.com/QByteSeeker">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=QByteSeeker&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- 3. Séparateur Visuel -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/gradient-bar.png" alt="Gradient Bar">
 
----
+### 🚀 Mon Arsenal Technologique
 
-### 🛠️ Mon Arsenal Technologique
-<p align="center">Voici les outils et technologies que j'utilise pour donner vie à mes idées.</p>
-<table align="center" style="width: 100%;">
-  <tr>
-    <td align="center" width="120">
-      <strong>Langages</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Frameworks</strong>
-    </td>
-    <td align="center">
-      <!-- Ajoutez/retirez des frameworks selon vos compétences -->
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
-      <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Outils & DevOps</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
 
----
+<!-- 4. Séparateur Visuel -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/gradient-bar.png" alt="Gradient Bar">
 
-### 🐍 Mon Graphe de Contributions Snake
+### 📊 Mes Statistiques sur GitHub
+
+<p align="center">
+  <!-- Remplacez QByteSeeker par votre nom d'utilisateur -->
+  <a href="https://github.com/QByteSeeker">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=QByteSeeker&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="Statistiques GitHub" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QByteSeeker&layout=compact&theme=dracula&hide_border=true" alt="Langages les plus utilisés" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/QByteSeeker">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QByteSeeker&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/QByteSeeker">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=QByteSeeker&theme=dracula&hide_border=true&bg_color=282A36" alt="Graphe d'activité"/>
+  </a>
+</p>
+
+<!-- 5. Séparateur Visuel -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/gradient-bar.png" alt="Gradient Bar">
+
+### 🐍 Mon Graphe de Contributions "Snake"
 
 <p align="center">
   <picture>
@@ -105,29 +66,25 @@ Version 2.2 - Corrigée et prête à l'emploi !
   </picture>
 </p>
 
----
+<!-- 6. Séparateur Visuel -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/gradient-bar.png" alt="Gradient Bar">
 
-### 📬 Parlons-en !
+### 📫 Contact & Connexion
+
 <p align="center">
-  Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter !
+  Ouvert à de nouvelles opportunités. Parlons-en !
   <br><br>
   <a href="mailto:ouendeufranck@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
    
   <a href="https://www.linkedin.com/in/VOTRE_PROFIL_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-   
-  <a href="https://VOTRE_PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Mon_Profil_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<!-- Pied de page avec compteur -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QByteSeeker&label=Visiteurs+du+Profil&color=0e75b6&style=flat" alt="Compteur de visites"/>
-</p>
+<br>
+
 <p align="center">
   <cite>"Celui qui cultive son champ est rassasié de pain, mais celui qui poursuit des choses vaines est dépourvu de sens." — Proverbes 12:11</cite>
 </p>
