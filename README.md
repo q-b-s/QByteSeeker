@@ -1,20 +1,20 @@
 <!-- 
-Bienvenue dans votre nouveau README, version 2.0 !
-Pour le personnaliser, suivez ces étapes :
-1. Remplacez PARTOUT `QByteSeeker` par votre nom d'utilisateur GitHub.
-2. Personnalisez le texte d'introduction et le SVG animé avec votre nom.
+Bienvenue dans votre nouveau README, version 2.1 !
+Pour le personnaliser :
+1. Remplacez PARTOUT `QByteSeeker` par votre nom d'utilisateur GitHub. (Le workflow le fera automatiquement).
+2. Personnalisez le texte, les couleurs et les animations dans l'URL de la bannière.
 3. Adaptez la section "Mon Arsenal Technologique" à VOS compétences réelles.
 4. Mettez à jour les liens dans la section "Parlons-en !".
 -->
 
-<!-- Bannière stylisée -->
+<!-- Bannière dynamique et personnalisable -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/github-banner-new.png" alt="Bannière GitHub - Code et Constellations">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00BFFF&height=280§ion=header&text=Jordan%20VUIDE&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecte%20Logiciel%20%26%20Explorateur%20Technologique&descAlignY=51&descAlign=62" alt="Bannière dynamique">
 </p>
 
 <!-- Titre animé -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=39FF14¢er=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Jordan+VUIDE;Architecte+Logiciel;Créateur+d'expériences+numériques;Explorateur+de+technologies" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00BFFF¢er=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Jordan+VUIDE;Développeur+Full-Stack;Créateur+d'expériences+numériques;Toujours+en+quête+de+défis" alt="Typing SVG"></a>
 </div>
 
 <!-- Layout en 2 colonnes : Intro + Stats -->
@@ -25,14 +25,14 @@ Pour le personnaliser, suivez ces étapes :
       <p>Je suis un développeur passionné qui transforme le café en code propre, robuste et performant. Mon terrain de jeu favori s'étend des algorithmes complexes en C++ à la création d'API RESTful modernes. Je crois fermement qu'une ligne de code bien pensée peut avoir un impact considérable.</p>
       <ul>
         <li>🔭 Je construis actuellement <strong>[Nom de votre projet actuel]</strong>.</li>
-        <li>🌱 Mon focus du moment est sur <strong>[Technologie que vous apprenez, ex: Rust, WebAssembly]</strong>.</li>
+        <li>🌱 Mon focus du moment est sur <strong>[Technologie que vous apprenez, ex: Rust, GraphQL]</strong>.</li>
         <li>💬 Discutons de <strong>C++, Python, architecture logicielle</strong> ou de votre dernier défi technique !</li>
       </ul>
       <hr>
       <h3>🏆 Trophées GitHub</h3>
       <p align="center">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=QByteSeeker&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophées GitHub de QByteSeeker"/>
+          <img src="https://github-profile-trophy.vercel.app/?username=QByteSeeker&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophées GitHub de QByteSeeker"/>
         </a>
       </p>
     </td>
@@ -40,15 +40,15 @@ Pour le personnaliser, suivez ces étapes :
       <h3 align="center">📊 Stats en un coup d'œil</h3>
       <p align="center">
         <a href="https://github.com/QByteSeeker">
-          <img src="https://github-readme-stats.vercel.app/api?username=QByteSeeker&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=prs" alt="Statistiques GitHub"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=QByteSeeker&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=prs" alt="Statistiques GitHub"/>
         </a>
         <br>
         <a href="https://github.com/QByteSeeker">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QByteSeeker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QByteSeeker&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Langages les plus utilisés"/>
         </a>
         <br>
         <a href="https://github.com/QByteSeeker">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=QByteSeeker&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=QByteSeeker&theme=dracula&hide_border=true" alt="GitHub Streak"/>
         </a>
       </p>
     </td>
@@ -59,12 +59,12 @@ Pour le personnaliser, suivez ces étapes :
 
 ### 🛠️ Mon Arsenal Technologique
 <p align="center">Voici les outils et technologies que j'utilise pour donner vie à mes idées.</p>
-<table align="center">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center" width="120">
       <strong>Langages</strong>
     </td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -77,7 +77,7 @@ Pour le personnaliser, suivez ces étapes :
     <td align="center">
       <strong>Frameworks</strong>
     </td>
-    <td>
+    <td align="center">
       <!-- Ajoutez/retirez des frameworks selon vos compétences -->
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -89,7 +89,7 @@ Pour le personnaliser, suivez ces étapes :
     <td align="center">
       <strong>Outils & DevOps</strong>
     </td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
@@ -109,12 +109,6 @@ Pour le personnaliser, suivez ces étapes :
     <img alt="snake" src="https://raw.githubusercontent.com/QByteSeeker/QByteSeeker/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-<!-- 
-ASTUCE : Pour que le snake fonctionne, vous devez créer un workflow GitHub Actions.
-1. Créez un dossier `.github/workflows` dans votre dépôt de profil.
-2. Créez un fichier `main.yml` dedans avec le contenu de ce lien : https://bit.ly/3x5s5Yc
-3. Poussez les changements sur GitHub, et l'image sera générée automatiquement !
--->
 
 ---
 
