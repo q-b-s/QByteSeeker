@@ -1,8 +1,3 @@
-<!-- GIF Banner -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB3aXJjM2I0bWh6dnluOTk4aDB6a3h0ZXI0cDV5YWo3ZXJubXVwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Code GIF">
-</p>
-
 <!-- FR Version -->
 <details open>
 <summary>🇫🇷 <strong>Voir la version en Français</strong></summary>
